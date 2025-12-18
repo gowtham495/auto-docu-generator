@@ -8,7 +8,7 @@
             "y": 1043,
             "button": "Button.left"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069758832.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069758832.png"
     },
     {
         "id": 1766069761957,
@@ -28,7 +28,7 @@
             "y": 97,
             "button": "Button.left"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069761228.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069761228.png"
     },
     {
         "id": 1766069762171,
@@ -91,7 +91,7 @@
         "details": {
             "key": "enter"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069763974.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069763974.png"
     },
     {
         "id": 1766069767819,
@@ -102,7 +102,7 @@
             "y": 398,
             "button": "Button.left"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069767819.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069767819.png"
     },
     {
         "id": 1766069776261,
@@ -113,7 +113,7 @@
             "y": 750,
             "button": "Button.left"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069776261.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069776261.png"
     },
     {
         "id": 1766069781171,
@@ -124,7 +124,7 @@
             "y": 216,
             "button": "Button.left"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069781171.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069781171.png"
     },
     {
         "id": 1766069787652,
@@ -135,7 +135,7 @@
             "y": 732,
             "button": "Button.left"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069787652.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069787652.png"
     },
     {
         "id": 1766069791564,
@@ -146,7 +146,7 @@
             "y": 1037,
             "button": "Button.left"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069791564.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069791564.png"
     },
     {
         "id": 1766069792866,
@@ -157,7 +157,7 @@
             "y": 910,
             "button": "Button.left"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069792866.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069792866.png"
     },
     {
         "id": 1766069793711,
@@ -177,7 +177,7 @@
             "y": 685,
             "button": "Button.left"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069800752.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069800752.png"
     },
     {
         "id": 1766069802353,
@@ -188,7 +188,7 @@
             "y": 389,
             "button": "Button.left"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069802353.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069802353.png"
     },
     {
         "id": 1766069808845,
@@ -242,7 +242,7 @@
         "details": {
             "key": "enter"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069810311.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069810311.png"
     },
     {
         "id": 1766069811552,
@@ -314,6 +314,6 @@
         "details": {
             "key": "enter"
         },
-        "screenshot": "session_data\\images\\screenshot_1766069818064.png"
+        "screenshot": "/content/auto-docu-generator/session_data/images/screenshot_1766069818064.png"
     }
 ]
