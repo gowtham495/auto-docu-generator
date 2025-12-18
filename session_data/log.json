@@ -1,0 +1,319 @@
+[
+    {
+        "id": 1766069758832,
+        "timestamp": "2025-12-18T20:25:59.195205",
+        "type": "click",
+        "details": {
+            "x": 1027,
+            "y": 1043,
+            "button": "Button.left"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069758832.png"
+    },
+    {
+        "id": 1766069761957,
+        "timestamp": "2025-12-18T20:26:01.957787",
+        "type": "press",
+        "details": {
+            "key": "e"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069761228,
+        "timestamp": "2025-12-18T20:26:02.090372",
+        "type": "click",
+        "details": {
+            "x": 966,
+            "y": 97,
+            "button": "Button.left"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069761228.png"
+    },
+    {
+        "id": 1766069762171,
+        "timestamp": "2025-12-18T20:26:02.171488",
+        "type": "press",
+        "details": {
+            "key": "x"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069762391,
+        "timestamp": "2025-12-18T20:26:02.391647",
+        "type": "press",
+        "details": {
+            "key": "a"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069762492,
+        "timestamp": "2025-12-18T20:26:02.492281",
+        "type": "press",
+        "details": {
+            "key": "m"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069762707,
+        "timestamp": "2025-12-18T20:26:02.707379",
+        "type": "press",
+        "details": {
+            "key": "p"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069762785,
+        "timestamp": "2025-12-18T20:26:02.785759",
+        "type": "press",
+        "details": {
+            "key": "l"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069762898,
+        "timestamp": "2025-12-18T20:26:02.898642",
+        "type": "press",
+        "details": {
+            "key": "e"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069763974,
+        "timestamp": "2025-12-18T20:26:04.616555",
+        "type": "press_special",
+        "details": {
+            "key": "enter"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069763974.png"
+    },
+    {
+        "id": 1766069767819,
+        "timestamp": "2025-12-18T20:26:08.056599",
+        "type": "click",
+        "details": {
+            "x": 492,
+            "y": 398,
+            "button": "Button.left"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069767819.png"
+    },
+    {
+        "id": 1766069776261,
+        "timestamp": "2025-12-18T20:26:16.516634",
+        "type": "click",
+        "details": {
+            "x": 397,
+            "y": 750,
+            "button": "Button.left"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069776261.png"
+    },
+    {
+        "id": 1766069781171,
+        "timestamp": "2025-12-18T20:26:21.478881",
+        "type": "click",
+        "details": {
+            "x": 1748,
+            "y": 216,
+            "button": "Button.left"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069781171.png"
+    },
+    {
+        "id": 1766069787652,
+        "timestamp": "2025-12-18T20:26:27.926023",
+        "type": "click",
+        "details": {
+            "x": 699,
+            "y": 732,
+            "button": "Button.left"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069787652.png"
+    },
+    {
+        "id": 1766069791564,
+        "timestamp": "2025-12-18T20:26:31.932035",
+        "type": "click",
+        "details": {
+            "x": 1363,
+            "y": 1037,
+            "button": "Button.left"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069791564.png"
+    },
+    {
+        "id": 1766069792866,
+        "timestamp": "2025-12-18T20:26:32.966109",
+        "type": "click",
+        "details": {
+            "x": 1214,
+            "y": 910,
+            "button": "Button.left"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069792866.png"
+    },
+    {
+        "id": 1766069793711,
+        "timestamp": "2025-12-18T20:26:33.711580",
+        "type": "press",
+        "details": {
+            "key": "\u0003"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069800752,
+        "timestamp": "2025-12-18T20:26:40.865210",
+        "type": "click",
+        "details": {
+            "x": 1309,
+            "y": 685,
+            "button": "Button.left"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069800752.png"
+    },
+    {
+        "id": 1766069802353,
+        "timestamp": "2025-12-18T20:26:42.466891",
+        "type": "click",
+        "details": {
+            "x": 1421,
+            "y": 389,
+            "button": "Button.left"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069802353.png"
+    },
+    {
+        "id": 1766069808845,
+        "timestamp": "2025-12-18T20:26:48.845964",
+        "type": "press",
+        "details": {
+            "key": "p"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069808919,
+        "timestamp": "2025-12-18T20:26:48.919038",
+        "type": "press",
+        "details": {
+            "key": "s"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069809777,
+        "timestamp": "2025-12-18T20:26:49.777699",
+        "type": "press",
+        "details": {
+            "key": "-"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069809964,
+        "timestamp": "2025-12-18T20:26:49.964668",
+        "type": "press",
+        "details": {
+            "key": "e"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069810195,
+        "timestamp": "2025-12-18T20:26:50.195129",
+        "type": "press",
+        "details": {
+            "key": "f"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069810311,
+        "timestamp": "2025-12-18T20:26:50.436172",
+        "type": "press_special",
+        "details": {
+            "key": "enter"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069810311.png"
+    },
+    {
+        "id": 1766069811552,
+        "timestamp": "2025-12-18T20:26:51.552751",
+        "type": "press",
+        "details": {
+            "key": "k"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069811755,
+        "timestamp": "2025-12-18T20:26:51.755200",
+        "type": "press",
+        "details": {
+            "key": "i"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069811962,
+        "timestamp": "2025-12-18T20:26:51.962055",
+        "type": "press",
+        "details": {
+            "key": "l"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069812107,
+        "timestamp": "2025-12-18T20:26:52.107104",
+        "type": "press",
+        "details": {
+            "key": "l"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069817601,
+        "timestamp": "2025-12-18T20:26:57.601500",
+        "type": "press",
+        "details": {
+            "key": "5"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069817757,
+        "timestamp": "2025-12-18T20:26:57.757200",
+        "type": "press",
+        "details": {
+            "key": "5"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069817836,
+        "timestamp": "2025-12-18T20:26:57.836949",
+        "type": "press",
+        "details": {
+            "key": "0"
+        },
+        "screenshot": null
+    },
+    {
+        "id": 1766069818064,
+        "timestamp": "2025-12-18T20:26:58.211664",
+        "type": "press_special",
+        "details": {
+            "key": "enter"
+        },
+        "screenshot": "session_data\\images\\screenshot_1766069818064.png"
+    }
+]
