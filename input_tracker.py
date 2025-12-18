@@ -1,7 +1,5 @@
 import argparse
 import sys
-from recorder import Recorder
-from generator import Generator
 
 def main():
     parser = argparse.ArgumentParser(description="Auto-Documentation Generator")
@@ -11,6 +9,7 @@ def main():
     args = parser.parse_args()
 
     if args.record:
+        from recorder import Recorder
         recorder = Recorder()
         try:
             recorder.start_recording()
@@ -18,6 +17,7 @@ def main():
             recorder.stop_recording()
     
     elif args.generate:
+        from generator import Generator
         generator = Generator()
         generator.generate_report()
     
